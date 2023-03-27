@@ -1,0 +1,396 @@
+START THE MATCH
+First rounds
+
+Ireland vs Sri Lanka
+Ireland won the toss and chose to bat.
+
+Total runs by Ireland was 100
+Total wickets taken was 10
+Total number of overs was 8
+
+Total runs by Sri Lanka was 103
+Total wickets taken was 8
+Total number of overs was 7
+
+Ireland lost with 100 runs.
+Sri Lanka won with 103 runs.
+
+Ireland vs New Zealand
+Ireland won the toss and chose to bat.
+
+Total runs by Ireland was 79
+Total wickets taken was 10
+Total number of overs was 6
+
+Total runs by New Zealand was 85
+Total wickets taken was 4
+Total number of overs was 5
+
+Ireland lost with 79 runs.
+New Zealand won with 85 runs.
+
+Bangladesh vs Sri Lanka
+Sri Lanka won the toss and chose to bat.
+
+Total runs by Sri Lanka was 172
+Total wickets taken was 10
+Total number of overs was 11
+
+Total runs by Bangladesh was 112
+Total wickets taken was 10
+Total number of overs was 9
+
+Sri Lanka won with 172 runs.
+Bangladesh lost with 112 runs.
+
+India vs England
+India won the toss and chose to field.
+
+Total runs by England was 91
+Total wickets taken was 10
+Total number of overs was 7
+
+Total runs by India was 92
+Total wickets taken was 3
+Total number of overs was 6
+
+England lost with 91 runs.
+India won with 92 runs.
+
+India vs South Africa
+South Africa won the toss and chose to field.
+
+Total runs by India was 125
+Total wickets taken was 10
+Total number of overs was 9
+
+Total runs by South Africa was 127
+Total wickets taken was 6
+Total number of overs was 8
+
+India lost with 125 runs.
+South Africa won with 127 runs.
+
+Bangladesh vs South Africa
+Bangladesh won the toss and chose to field.
+
+Total runs by South Africa was 76
+Total wickets taken was 10
+Total number of overs was 6
+
+Total runs by Bangladesh was 77
+Total wickets taken was 3
+Total number of overs was 4
+
+South Africa lost with 76 runs.
+Bangladesh won with 77 runs.
+
+Australia vs Australia
+Australia won the toss and chose to bat.
+
+Total runs by Australia was 206
+Total wickets taken was 10
+Total number of overs was 15
+
+Total runs by Australia was 144
+Total wickets taken was 10
+Total number of overs was 10
+
+Australia won with 206 runs.
+Australia lost with 144 runs.
+
+England vs New Zealand
+England won the toss and chose to bat.
+
+Total runs by England was 144
+Total wickets taken was 10
+Total number of overs was 10
+
+Total runs by New Zealand was 146
+Total wickets taken was 3
+Total number of overs was 9
+
+England lost with 144 runs.
+New Zealand won with 146 runs.
+
+Sri Lanka vs New Zealand
+New Zealand won the toss and chose to field.
+
+Total runs by Sri Lanka was 139
+Total wickets taken was 10
+Total number of overs was 10
+
+Total runs by New Zealand was 96
+Total wickets taken was 10
+Total number of overs was 8
+
+Sri Lanka won with 139 runs.
+New Zealand lost with 96 runs.
+
+Sri Lanka vs India
+Sri Lanka won the toss and chose to bat.
+
+Total runs by Sri Lanka was 123
+Total wickets taken was 10
+Total number of overs was 10
+
+Total runs by India was 126
+Total wickets taken was 7
+Total number of overs was 8
+
+Sri Lanka lost with 123 runs.
+India won with 126 runs.
+
+South Africa vs Bangladesh
+Bangladesh won the toss and chose to bat.
+
+Total runs by Bangladesh was 179
+Total wickets taken was 10
+Total number of overs was 13
+
+Total runs by South Africa was 181
+Total wickets taken was 9
+Total number of overs was 12
+
+Bangladesh lost with 179 runs.
+South Africa won with 181 runs.
+
+Australia vs New Zealand
+Australia won the toss and chose to field.
+
+Total runs by New Zealand was 250
+Total wickets taken was 10
+Total number of overs was 16
+
+Total runs by Australia was 174
+Total wickets taken was 10
+Total number of overs was 13
+
+New Zealand won with 250 runs.
+Australia lost with 174 runs.
+
+TOURNAMENT RUNNERS UP
+Sri Lanka won the toss and chose to bat.
+
+Total runs by Sri Lanka was 99
+Total wickets taken was 10
+Total number of overs was 7
+
+Total runs by New Zealand was 101
+Total wickets taken was 9
+Total number of overs was 8
+
+Sri Lanka lost with 99 runs.
+New Zealand won with 101 runs.
+
+Finals
+India won the toss and chose to bat.
+
+Total runs by India was 170
+Total wickets taken was 10
+Total number of overs was 12
+
+Total runs by Sri Lanka was 173
+Total wickets taken was 7
+Total number of overs was 10
+
+India lost with 170 runs.
+Sri Lanka won with 173 runs.
+
+THE WINNER IS: Sri Lanka
+THE RUNNERS UP IS: India
+THE SECOND RUNNERS UP IS: New Zealand
+Brian: Player scored 11 from 5 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+George: Player scored 1 from 2 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Edward: Player scored 0 from 1 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+Ronald: Player scored 9 from 9 balls. Getting 1 wickets And The way of dismissal is by :[Caught]
+Timothy: Player scored 12 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Jason: Player scored 46 from 16 balls. Getting 2 wickets And The way of dismissal is by :[Stumped]
+Jeffrey: Player scored 1 from 1 balls. Getting 1 wickets And The way of dismissal is by :[]
+Ryan: Player scored 2 from 2 balls. Getting 1 wickets And The way of dismissal is by :[Bowled]
+Jacob: Player scored 10 from 4 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Gary: Player scored 8 from 4 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+Nicholas: Player scored 0 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Vinuwara: Player scored 29 from 12 balls. Getting 5 wickets And The way of dismissal is by :[LBW, Caught, Caught]
+Douglas: Player scored 9 from 6 balls. Getting 5 wickets And The way of dismissal is by :[Run Out, Bowled, Bowled]
+Zachary: Player scored 73 from 27 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, Caught, LBW]
+Peter: Player scored 51 from 22 balls. Getting 2 wickets And The way of dismissal is by :[Stumped, Caught]
+Kyle: Player scored 79 from 28 balls. Getting 4 wickets And The way of dismissal is by :[Caught, Bowled, Bowled]
+Walter: Player scored 68 from 26 balls. Getting 2 wickets And The way of dismissal is by :[LBW, Caught]
+Ethan: Player scored 33 from 14 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, Bowled, Bowled]
+Jeremy: Player scored 19 from 10 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, LBW, Run Out]
+Harold: Player scored 44 from 15 balls. Getting 4 wickets And The way of dismissal is by :[LBW]
+Keith: Player scored 10 from 6 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Christian: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Brian: Player scored 0 from 1 balls. Getting 1 wickets And The way of dismissal is by :[Caught]
+George: Player scored 15 from 6 balls. Getting 1 wickets And The way of dismissal is by :[LBW]
+Edward: Player scored 6 from 4 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+Ronald: Player scored 4 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Timothy: Player scored 6 from 2 balls. Getting 1 wickets And The way of dismissal is by :[Bowled]
+Jason: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Jeffrey: Player scored 17 from 7 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Ryan: Player scored 2 from 2 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Jacob: Player scored 22 from 9 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Gary: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Nicholas: Player scored 7 from 2 balls. Getting 0 wickets And The way of dismissal is by :[]
+Daniel: Player scored 59 from 24 balls. Getting 3 wickets And The way of dismissal is by :[Caught, Caught, Caught]
+Matthew: Player scored 33 from 13 balls. Getting 3 wickets And The way of dismissal is by :[Caught, Caught, Run Out]
+Anthony: Player scored 10 from 6 balls. Getting 5 wickets And The way of dismissal is by :[LBW, Run Out, Bowled]
+Mark: Player scored 30 from 14 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, Caught]
+Donald: Player scored 11 from 9 balls. Getting 3 wickets And The way of dismissal is by :[Stumped, LBW, Run Out]
+Steven: Player scored 55 from 24 balls. Getting 3 wickets And The way of dismissal is by :[LBW, LBW]
+paul: Player scored 1 from 4 balls. Getting 3 wickets And The way of dismissal is by :[LBW, Bowled]
+Andrew: Player scored 32 from 14 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, LBW]
+Joshua: Player scored 12 from 5 balls. Getting 1 wickets And The way of dismissal is by :[LBW]
+Kenneth: Player scored 19 from 13 balls. Getting 1 wickets And The way of dismissal is by :[Caught, Stumped]
+Kevin: Player scored 20 from 10 balls. Getting 0 wickets And The way of dismissal is by :[]
+Alexander: Player scored 14 from 8 balls. Getting 4 wickets And The way of dismissal is by :[Bowled]
+Raymond: Player scored 0 from 2 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Patrick: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Jack: Player scored 13 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Dennis: Player scored 4 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Jerry: Player scored 40 from 17 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+Tyler: Player scored 17 from 6 balls. Getting 2 wickets And The way of dismissal is by :[Run Out]
+Aaron: Player scored 10 from 8 balls. Getting 1 wickets And The way of dismissal is by :[Run Out]
+jose: Player scored 0 from 1 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Adam: Player scored 10 from 5 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Henry: Player scored 4 from 3 balls. Getting 0 wickets And The way of dismissal is by :[]
+Vinsuka: Player scored 1 from 5 balls. Getting 5 wickets And The way of dismissal is by :[LBW, LBW, Bowled]
+Douglas: Player scored 98 from 34 balls. Getting 2 wickets And The way of dismissal is by :[Bowled, Bowled, Caught]
+Zachary: Player scored 84 from 34 balls. Getting 3 wickets And The way of dismissal is by :[Caught, Caught, Run Out]
+Peter: Player scored 19 from 9 balls. Getting 3 wickets And The way of dismissal is by :[LBW, LBW, Stumped]
+Kyle: Player scored 47 from 23 balls. Getting 0 wickets And The way of dismissal is by :[Caught, Run Out, Run Out]
+Walter: Player scored 23 from 9 balls. Getting 5 wickets And The way of dismissal is by :[LBW, Bowled, Stumped]
+Ethan: Player scored 9 from 14 balls. Getting 1 wickets And The way of dismissal is by :[Caught, Run Out, Bowled]
+Jeremy: Player scored 27 from 12 balls. Getting 2 wickets And The way of dismissal is by :[Stumped, Stumped, Run Out]
+Harold: Player scored 12 from 9 balls. Getting 4 wickets And The way of dismissal is by :[Run Out, Caught]
+Keith: Player scored 37 from 13 balls. Getting 1 wickets And The way of dismissal is by :[Bowled, Run Out]
+Christian: Player scored 37 from 10 balls. Getting 0 wickets And The way of dismissal is by :[LBW, Run Out]
+James: Player scored 72 from 26 balls. Getting 5 wickets And The way of dismissal is by :[Caught, Stumped]
+Robert: Player scored 1 from 4 balls. Getting 4 wickets And The way of dismissal is by :[LBW, Run Out, Caught]
+John: Player scored 84 from 33 balls. Getting 3 wickets And The way of dismissal is by :[Run Out, LBW]
+michael: Player scored 49 from 20 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, Caught, Run Out]
+William: Player scored 64 from 24 balls. Getting 2 wickets And The way of dismissal is by :[LBW, Caught]
+David: Player scored 24 from 9 balls. Getting 3 wickets And The way of dismissal is by :[Run Out, Stumped]
+Richard: Player scored 12 from 6 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, Stumped]
+Joseph: Player scored 9 from 8 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, Bowled]
+Thomas: Player scored 21 from 10 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Charles: Player scored 11 from 6 balls. Getting 2 wickets And The way of dismissal is by :[]
+Christopher: Player scored 41 from 17 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+lara: Player scored 4 from 3 balls. Getting 2 wickets And The way of dismissal is by :[Stumped]
+Jordan: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Billy: Player scored 4 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+Bruce: Player scored 0 from 1 balls. Getting 1 wickets And The way of dismissal is by :[Caught]
+Albert: Player scored 9 from 5 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Willie: Player scored 27 from 11 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Gabriel: Player scored 14 from 5 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Logan: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+alan: Player scored 1 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+juan: Player scored 12 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Wayne: Player scored 20 from 5 balls. Getting 0 wickets And The way of dismissal is by :[]
+James: Player scored 8 from 7 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Robert: Player scored 36 from 13 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+John: Player scored 25 from 9 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+michael: Player scored 20 from 10 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+William: Player scored 0 from 1 balls. Getting 2 wickets And The way of dismissal is by :[Stumped]
+David: Player scored 5 from 3 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Richard: Player scored 3 from 2 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Joseph: Player scored 5 from 3 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Thomas: Player scored 17 from 6 balls. Getting 0 wickets And The way of dismissal is by :[]
+Charles: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Christopher: Player scored 6 from 3 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+Roger: Player scored 53 from 19 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, Bowled]
+Noah: Player scored 48 from 18 balls. Getting 1 wickets And The way of dismissal is by :[Bowled, Stumped]
+Gerald: Player scored 49 from 15 balls. Getting 1 wickets And The way of dismissal is by :[Stumped, LBW]
+karl: Player scored 6 from 4 balls. Getting 2 wickets And The way of dismissal is by :[LBW, LBW]
+Terry: Player scored 4 from 3 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, Run Out]
+Shaun: Player scored 13 from 10 balls. Getting 1 wickets And The way of dismissal is by :[Bowled]
+Austin: Player scored 32 from 12 balls. Getting 2 wickets And The way of dismissal is by :[Stumped, Caught]
+Arthur: Player scored 61 from 24 balls. Getting 2 wickets And The way of dismissal is by :[]
+Laurence: Player scored 10 from 6 balls. Getting 2 wickets And The way of dismissal is by :[LBW]
+Jessy: Player scored 10 from 5 balls. Getting 3 wickets And The way of dismissal is by :[Stumped]
+Dilan: Player scored 22 from 8 balls. Getting 0 wickets And The way of dismissal is by :[]
+Alexander: Player scored 50 from 17 balls. Getting 3 wickets And The way of dismissal is by :[Bowled, Bowled]
+Raymond: Player scored 32 from 15 balls. Getting 1 wickets And The way of dismissal is by :[Run Out, LBW]
+Patrick: Player scored 28 from 10 balls. Getting 5 wickets And The way of dismissal is by :[Bowled]
+Jack: Player scored 23 from 16 balls. Getting 2 wickets And The way of dismissal is by :[Run Out, Stumped]
+Dennis: Player scored 8 from 3 balls. Getting 2 wickets And The way of dismissal is by :[Stumped]
+Jerry: Player scored 6 from 4 balls. Getting 3 wickets And The way of dismissal is by :[Bowled]
+Tyler: Player scored 16 from 7 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Aaron: Player scored 42 from 14 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+jose: Player scored 35 from 15 balls. Getting 1 wickets And The way of dismissal is by :[]
+Adam: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Henry: Player scored 16 from 7 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Roger: Player scored 22 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Noah: Player scored 2 from 3 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Gerald: Player scored 0 from 2 balls. Getting 1 wickets And The way of dismissal is by :[Run Out]
+karl: Player scored 11 from 5 balls. Getting 1 wickets And The way of dismissal is by :[LBW]
+Terry: Player scored 1 from 2 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+Shaun: Player scored 18 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Austin: Player scored 7 from 3 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Arthur: Player scored 9 from 5 balls. Getting 0 wickets And The way of dismissal is by :[]
+Laurence: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Jessy: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Dilan: Player scored 6 from 3 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Eric: Player scored 6 from 2 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Jonathan: Player scored 0 from 2 balls. Getting 2 wickets And The way of dismissal is by :[LBW]
+Stephen: Player scored 6 from 2 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+finiel: Player scored 7 from 4 balls. Getting 3 wickets And The way of dismissal is by :[Caught]
+Justin: Player scored 48 from 21 balls. Getting 1 wickets And The way of dismissal is by :[]
+Scott: Player scored 3 from 2 balls. Getting 1 wickets And The way of dismissal is by :[LBW]
+Brandon: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Benjamin: Player scored 19 from 10 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Samuel: Player scored 28 from 7 balls. Getting 1 wickets And The way of dismissal is by :[Run Out]
+Gregory: Player scored 20 from 9 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+Frank: Player scored 7 from 4 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Eric: Player scored 59 from 26 balls. Getting 4 wickets And The way of dismissal is by :[Bowled, LBW]
+Jonathan: Player scored 22 from 14 balls. Getting 4 wickets And The way of dismissal is by :[Caught, Bowled]
+Stephen: Player scored 10 from 6 balls. Getting 4 wickets And The way of dismissal is by :[Caught, Stumped]
+finiel: Player scored 10 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Bowled, Bowled]
+Justin: Player scored 13 from 7 balls. Getting 2 wickets And The way of dismissal is by :[Bowled, Caught]
+Scott: Player scored 23 from 10 balls. Getting 1 wickets And The way of dismissal is by :[Caught, Caught]
+Brandon: Player scored 107 from 43 balls. Getting 2 wickets And The way of dismissal is by :[LBW, Stumped]
+Benjamin: Player scored 34 from 16 balls. Getting 1 wickets And The way of dismissal is by :[Bowled, LBW]
+Samuel: Player scored 75 from 27 balls. Getting 1 wickets And The way of dismissal is by :[Caught, LBW]
+Gregory: Player scored 16 from 10 balls. Getting 1 wickets And The way of dismissal is by :[Bowled]
+Frank: Player scored 11 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Caught]
+lara: Player scored 6 from 4 balls. Getting 0 wickets And The way of dismissal is by :[Bowled]
+Jordan: Player scored 12 from 5 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Billy: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Bruce: Player scored 4 from 3 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Albert: Player scored 21 from 8 balls. Getting 1 wickets And The way of dismissal is by :[Bowled]
+Willie: Player scored 13 from 6 balls. Getting 1 wickets And The way of dismissal is by :[LBW]
+Gabriel: Player scored 0 from 1 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+Logan: Player scored 38 from 16 balls. Getting 1 wickets And The way of dismissal is by :[Caught]
+alan: Player scored 20 from 9 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+juan: Player scored 0 from 2 balls. Getting 0 wickets And The way of dismissal is by :[LBW]
+Wayne: Player scored 30 from 10 balls. Getting 0 wickets And The way of dismissal is by :[]
+Daniel: Player scored 34 from 15 balls. Getting 4 wickets And The way of dismissal is by :[Stumped, Caught]
+Matthew: Player scored 172 from 60 balls. Getting 1 wickets And The way of dismissal is by :[]
+Anthony: Player scored 35 from 13 balls. Getting 3 wickets And The way of dismissal is by :[Bowled, Caught]
+Mark: Player scored 15 from 7 balls. Getting 1 wickets And The way of dismissal is by :[Stumped, Stumped]
+Donald: Player scored 57 from 20 balls. Getting 5 wickets And The way of dismissal is by :[Caught]
+Steven: Player scored 25 from 10 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+paul: Player scored 7 from 4 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Andrew: Player scored 7 from 4 balls. Getting 2 wickets And The way of dismissal is by :[Caught]
+Joshua: Player scored 16 from 6 balls. Getting 0 wickets And The way of dismissal is by :[Run Out]
+Kenneth: Player scored 12 from 5 balls. Getting 1 wickets And The way of dismissal is by :[Stumped]
+Kevin: Player scored 16 from 8 balls. Getting 0 wickets And The way of dismissal is by :[Stumped]
+
+
+BEST BATSMEN OF THE TOURNAMENT
+Matthew scored 172
+Brandon scored 107
+Douglas scored 98
+John scored 84
+Zachary scored 84
+
+
+
+BEST BOWLERS OF THE TOURNAMENT
+James got 5 wickets.
+Donald got 5 wickets.
+Vinuwara got 5 wickets.
+Patrick got 5 wickets.
+Walter got 5 wickets.
+
